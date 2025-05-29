@@ -1,1 +1,3 @@
 # Reinforcement-Learning-for-Robotic-Control
+# Description:
+Reinforcement learning (RL) for robotic control involves teaching robots to perform tasks by interacting with their environment and learning from the feedback received (rewards or penalties). The goal is to train the robot to make optimal decisions, such as adjusting its position, velocity, or other parameters to perform specific tasks like grasping, moving, or navigating. In this project, we will apply RL techniques to train a robot to perform control tasks, using Q-learning or Deep Q-Networks (DQN) for learning from interactions with the environment.
